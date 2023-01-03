@@ -6,7 +6,7 @@ public class thick{
         float khil = 2.62862356265556364f;
         boolean guig = true;
         String[] sreas = new String[10];
-        fat jjjj = new fat(5);
+        fat jjjj = new fat();
         System.out.println();
         while(hil < 10){
             System.out.println(hil);
@@ -25,5 +25,6 @@ class fat{
 }
 class tghjasdhfjsfkfjafkjsahd extends fat{
     tghjasdhfjsfkfjafkjsahd(){
-        
+
     }
+}
