@@ -10,6 +10,7 @@ public class show {
         screen.setVisible(true);
     }
 }
+
 class cube extends JTextArea implements KeyListener{
     int[][] move = new int[127][2];
     int[] shift = {0,0};
