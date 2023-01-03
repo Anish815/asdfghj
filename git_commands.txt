@@ -1,0 +1,7 @@
+Git Commands
+
+1) git init //Initialize Git
+2) git add . //Prepare all files to be committed
+3) git commit -m "*message*" //Saves the version of the files and prepares the files to be sent to GitHub (replace *message* with a message)
+4) git branch *branch* //Creates a new branch so that the main code doesn't get corrupted (replace branch with a branch name) 
+5) git push *url* *branch* //Saves your files on GitHub (replace *url* with the url of your repo, and *branch* with the branch name you called)
