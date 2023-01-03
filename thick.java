@@ -1,4 +1,4 @@
-//Anish is a pro java main
+//Anish is a noob java main
 public class thick{
     public static void main(String[] args) {
         String akhil = "thick";
@@ -22,7 +22,8 @@ class fat{
             cream = false;
        } 
     }
-    fat(int fat){
-        fatness = fat;
-    }
 }
+class tghjasdhfjsfkfjafkjsahd extends fat{
+    tghjasdhfjsfkfjafkjsahd(){
+        
+    }
